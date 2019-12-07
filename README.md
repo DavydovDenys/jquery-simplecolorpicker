@@ -50,7 +50,7 @@ add the plugin files:
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
 <script src="jquery.simplecolorpicker.js"></script>
 
-<link rel="stylesheet" href="jquery.simplecolorpicker.css">
+<link rel="stylesheet" href="jquery.simplecolorpicker.css"/>
 ```
 
 then call the plugin:
